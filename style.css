@@ -1,14 +1,21 @@
-#header{
+header{
     background-image: linear-gradient(#6D91DE,#96B8FF );
     padding: 12px;
     margin-bottom: 75px;
 }
 
 #header h1{
-    color: #DEBC6D;
+    color: white;
     font-weight: bold;
 }
 
+small{
+    font-size: 18px;
+}
+
+#main{
+    margin-bottom: 220px;
+}
 
 #card{
     margin-bottom: 40px;
